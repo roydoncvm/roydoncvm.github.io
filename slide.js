@@ -3,10 +3,9 @@ var images = [];	// Images Array
 var time = 1000;	// Time Between Switch
 	 
 // Image List
-images[0] = "https://supermodel-bestawards.s3.amazonaws.com/resized/sm/entry/x9/09/ts/0r/TEDxsmall%20brand%20identity2-0-2344-0-1652.jpg?k=bb4eec92db";
-images[1] = "assets/images/TEDx_02.jpg";
-images[2] = "assets/images/TEDx_03.jpg";
-images[3] = "assets/images/TEDx_04.jpg";
+images[0] = "assets/images/TEDx_01.jpg";
+images[1] = "assets/images/TEDx_03.jpg";
+images[2] = "assets/images/TEDx_04.jpg";
 
 
 // Change Image
