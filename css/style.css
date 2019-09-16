@@ -28,7 +28,7 @@ html {
 }
 
 body {
-	background-color: #F1ECE8;
+	background-color: #fff;
  	 display: -webkit-box;
   	display: -ms-flexbox;
  	 display: flex;
@@ -154,7 +154,7 @@ html, body {
   text-indent: 0rem;
   text-transform: uppercase;
   margin-bottom: 2rem;
-  color: grey;
+  color: black;
 }
 
 .heading{
@@ -162,7 +162,7 @@ html, body {
   text-transform: uppercase;
   margin-top: 2rem;
   margin-bottom: 2rem;
-	color: grey;
+	color: black;
 }
 
 p{
