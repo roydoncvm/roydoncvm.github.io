@@ -286,5 +286,6 @@ font-weight: 400;
 color: #000;
 cursor: pointer;
 border-bottom: solid 2px black; 
+background-color: white;
 }
 .paypal_btn:hover{ border-bottom: solid 2px white; }
