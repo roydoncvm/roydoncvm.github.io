@@ -124,6 +124,8 @@ html, body {
   width: 100%;
 }
 
+
+
 @media screen and (min-width : 550px ){
   .width50{
     width: 50%;
@@ -275,3 +277,14 @@ video {
 .slick-arrow{
   display: none;
 }
+
+.paypal_btn{
+font-family: 'Helvetica Neue', 'sans-serif';
+font-size: calc(2.25rem);
+line-height: 1.25;
+font-weight: 400;
+color: #000;
+cursor: pointer;
+border-bottom: solid 2px black; 
+}
+.paypal_btn:hover{ border-bottom: solid 2px white; }
