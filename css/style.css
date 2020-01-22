@@ -277,11 +277,35 @@ video {
   display: none;
 }
 
-.paypal_btn{
+.selectsize {
+
+    display:none;
+}
+
+.size{
 color: #000;
 cursor: pointer;
-border-bottom: solid 2px black; 
+border: solid 1px black; 
+padding-top: 2px;
+padding-bottom: 2px;
+padding-left: 6px;
+padding-right: 6px;
 background-color: white;
 
 }
-.paypal_btn:hover{ border-bottom: solid 2px white; }
+
+
+.paypal_btn{
+color: #000;
+cursor: pointer;
+border: solid 1px black; 
+padding-top: 2px;
+padding-bottom: 2px;
+padding-left: 6px;
+padding-right: 6px;
+background-color: white;
+
+}
+.paypal_btn:hover{ 
+    background-color: black;
+    color: white; }
