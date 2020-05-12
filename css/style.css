@@ -201,13 +201,13 @@ li{
   padding-left: 4rem;
 }
 
-a{
+a:hover{
 color: black;
-border-bottom: solid 2px black; 
+border-bottom: solid 0.05em black; 
   cursor: pointer;
 }
 
-a:hover{
+a{
   color: black;
 border-bottom: none;
 }
