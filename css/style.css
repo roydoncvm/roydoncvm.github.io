@@ -283,20 +283,21 @@ video {
 }
 
 .size{
-color: #000;
+color: white;
 cursor: pointer;
 border: solid 1px white; 
 padding-top: 2px;
 padding-bottom: 2px;
 padding-left: 6px;
 padding-right: 6px;
-background-color: white;
+background-color: black;
+    margin-bottom:3px;
 
 }
 
 
 .paypal_btn{
-color: #000;
+color: white;
 cursor: pointer;
 border: solid 1px white; 
 padding-top: 2px;
